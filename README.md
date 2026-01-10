@@ -14,7 +14,7 @@ Unlike standard VGM players that support a huge variety of chips from many diffe
 -   **Retro TUI**: A refreshed Text User Interface with a typical retro look inspired by the MSX boot sequence:
     -   Simplified controls.
     -   Playing time and progress bar.
-    -   **Integrated Playlist View** (Press `p` to toggle).
+    -   **Integrated Playlist View** (Press `ENTER` to toggle).
     -   Boot animation and "MSX Basic" style aesthetic.
 
 ## Supported Inputs
