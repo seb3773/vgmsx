@@ -54,7 +54,7 @@ The player can natively handle archives (extracting them transparently to a temp
 | **ENTER** | Toggle Playlist View |
 | **ESC** | Quit |
 
-## Visuals
+## Screenshots
 
 ![vgMSX Playlist](https://github.com/seb3773/vgmsx/raw/main/screenshots/screenshot_1.jpg)
 *Playlist view with MSX-style scrolling and selection*
