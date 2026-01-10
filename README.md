@@ -56,8 +56,19 @@ The player can natively handle archives (extracting them transparently to a temp
 
 ## Screenshots
 
-![vgMSX Playlist](https://github.com/seb3773/vgmsx/raw/main/screenshots/screenshot_1.jpg)
+![vgMSX Playlist](https://github.com/seb3773/vgmsx/raw/main/screenshots/screenshot_1.jpg)  
+*Playback view with dynamic progress bar and metadata*
+
+![vgMSX Playback](https://github.com/seb3773/vgmsx/raw/main/screenshots/screenshot_2.jpg)  
 *Playlist view with MSX-style scrolling and selection*
 
-![vgMSX Playback](https://github.com/seb3773/vgmsx/raw/main/screenshots/screenshot_2.jpg)
-*Playback view with dynamic progress bar and metadata*
+## MSX VGM Music Resources
+
+Here are some great sources for MSX VGM/VGZ music:
+
+-   [File-Hunter.com VGM Archive](https://download.file-hunter.com/Music/VGM/)
+-   [VGMRips - MSX](https://vgmrips.net/packs/system/ascii/msx)
+-   [VGMRips - MSX2](https://vgmrips.net/packs/system/ascii/msx2)
+-   [VGMRips - MSX2+](https://vgmrips.net/packs/system/ascii/msx2plus)
+-   [VGMRips - MSX Turbo R](https://vgmrips.net/packs/system/ascii/msx-turbo-r)
+  
