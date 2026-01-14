@@ -70,5 +70,9 @@ Here are some great sources for MSX VGM/VGZ music:
 -   [VGMRips - MSX](https://vgmrips.net/packs/system/ascii/msx)
 -   [VGMRips - MSX2](https://vgmrips.net/packs/system/ascii/msx2)
 -   [VGMRips - MSX2+](https://vgmrips.net/packs/system/ascii/msx2plus)
--   [VGMRips - MSX Turbo R](https://vgmrips.net/packs/system/ascii/msx-turbo-r)
+-   [VGMRips - MSX Turbo R](https://vgmrips.net/packs/system/ascii/msx-turbo-r)  
+
+## WebAssembly Version
+Test the WebAssembly version of **vgMSX** here --> [https://seb3773.github.io/vgmsx/](https://seb3773.github.io/vgmsx/)
+
   
